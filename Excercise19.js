@@ -1,0 +1,1 @@
+console.log('Only 2 people invited to the dinner!');
